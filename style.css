@@ -1,0 +1,294 @@
+body{
+    background-color:black;
+    overflow-x: hidden;
+    color: white;
+  
+}
+.logo{
+    width:140px ;
+    height:40px ;
+    mix-blend-mode:normal;
+    position: relative;
+    left:70px;
+    display:inline
+
+}
+.side{
+    height:600px;
+    width: 70px;
+    position: fixed;
+  
+    
+    bottom: 33px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.s{
+    width:60px ;
+    height:60px ;
+    
+}
+.sa{
+    width:27px ;
+    height:23px ;
+    position: relative;
+    left:15px;
+    
+
+}
+.l{
+    position: relative;
+    bottom: 30px;
+    
+}
+.burger{
+    border-radius: 70%;
+    bottom: 23px;
+    position: relative;
+    width:40px ;
+    height: 50px;
+    
+}
+::placeholder{
+    position: relative;
+    left:15px;
+}
+
+burger:hover{
+    background-color: rgb(196, 196, 57);
+}
+.s:hover{
+    background-color: rgb(196, 196, 57);
+}
+
+
+.top{
+    position: relative;
+    display: flex;
+    left:400px;
+    top:-32px;
+    gap:20px;
+
+}
+.mic{
+    position: relative;;
+    top:-2px;
+    right: 75px;
+   
+   
+}
+.circle{
+    background-color: rgb(92, 90, 90);
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    position: relative;
+    bottom: 7px;
+    left:-124px;
+    z-index: -1;
+
+}
+#ja{
+    background-color: rgb(84, 78, 78);
+    position: relative;
+    right: 73px;
+    bottom: 3px;
+    width:70px ;
+    height:30px ;
+    border-radius:0px 30px 30px 0px;
+    border-left: 20px;
+    border-right: 10px;
+}
+   
+
+
+.d{
+
+    background-color: black;
+    border-radius: 20px;
+    position: relative;
+    bottom: 7px;
+
+    width: 550px;
+    height: 36px;
+    font-size: 16px;
+    color: aliceblue;
+    outline-style: none;
+    border-color: rgb(144, 139, 139);
+  
+
+  
+}
+.total{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top:30px;
+}
+#vc{
+
+    position: relative;
+    top:4px;
+}
+.ryt{
+    display: flex;
+    position: relative;
+    left:100px;
+    flex-direction: row;
+    gap:35px;
+
+}
+.r{
+    width: 20px;
+    height: 20px;
+}
+
+.thomas{
+
+    width:310px;
+    height: 180px;
+    border-radius: 20px;
+}
+.video{
+    position: relative;
+    bottom:550px;
+    left:90px;
+
+}
+
+#i{
+    border-radius: 85%;
+    width: 40px;
+    height: 40px;
+
+
+}
+.desc{
+    display: flex;
+    gap:3px;
+}
+#c{
+    font-size: 13.5px;
+    position: relative;
+    bottom: 7px;
+    left: 5px;
+
+}
+.p{
+    position: relative;
+    left: 48px;
+    bottom: 25px;
+}
+.desc2{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    bottom: 5px;
+}
+.svg{
+    width: 20px;
+    height:20px;
+    position: relative;
+    left: 53px;
+    bottom: 9px;
+}
+.descp{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.pq{
+    bottom: 50px;
+    font-size: 15px;
+    color: gray;
+    left: 50px;
+    position: relative;
+}
+.cont{
+    position: relative;
+    top:580px ;
+    display: flex;
+    flex-direction: row;
+    gap:16px;
+}
+.scroll-container::-webkit-scrollbar {
+    height: 8px;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+    background-color: #555;
+    border-radius: 10px;
+}
+
+.scroll-container::-webkit-scrollbar-track {
+    background: #000;
+}
+
+
+.scroll-container {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    position: relative;
+    left: 80px;
+    bottom: 10px;
+
+    background-color: black;
+}
+.scroll-item:hover{
+    background-color: rgb(115, 115, 115);
+}
+
+.scroll-item {
+    background-color: rgb(46, 46, 46);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 12px;
+    margin-right: 8px;
+    font-size: 14px;
+    flex: 0 0 auto; /* Prevent shrinking */
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+
+
+#ui{
+    
+        background-color: rgb(92, 90, 90);
+        border-radius: 100%;
+        width: 35px;
+        height: 35px;
+        position: relative;
+        bottom: 30px;
+        right: 9px;
+        z-index: -1;
+    
+    
+}
+#uo{
+
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    position: relative;
+    bottom: 33px;
+    left:12px;
+    z-index: -1;
+
+}
+#uio{
+    
+    background-color: rgb(92, 90, 90);
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    position: relative;
+    bottom: 30px;
+    right: 8px;
+    z-index: -1;
+
+
+}
