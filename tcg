@@ -1,0 +1,80 @@
+<div id="os" class="wholee"> 
+    <div class="pricing">
+        
+        <div class="demo">
+            <div class="container">
+                <h1 class="new-amsterdam-regular fo" >Our <span style="color: red;">Youtube</span> Premium Pricings </h1>
+                <div class="row">
+
+                    <div class="col-md-4 col-sm-6 ">
+                        
+                        <div class="pricingTable">
+                            <div class="pricingTable-header">
+
+                                <div class="price-value">
+                                    <span class="currency">Rs</span>
+                                    <span class="amount">80</span>
+                                    <span class="amount-sm">.99</span>
+                                </div>
+                                <h3 class="title">Individual</h3>
+                            </div>
+                            <ul class="pricing-content">
+                                <li>Free trials with monthly plans</li>
+                                <br>
+                                <br>
+                                
+                            </ul>
+                            <div class="pricingTable-signup o">
+                                <a href="#">Join Now</a>
+                            </div>
+                        </div>
+                    </div>
+    
+                    <div class="col-md-4 col-sm-6">
+                        <div class="pricingTable pink">
+                            <div class="pricingTable-header">
+                                <div class="price-value">
+                                    <span class="currency">Rs</span>
+                                    <span class="amount">170</span>
+                                    <span class="amount-sm">.99</span>
+                                </div>
+                                <h3 class="title">Family</h3>
+                            </div>
+                            <ul class="pricing-content">
+                                <li>Get 1 month free 
+                                     </li>
+    
+                                <li>Add up to 5 family members (aged 13+) in your household.</li>
+                                
+                            </ul>
+                            <div class="pricingTable-signup tp">
+                                <a class="tp" href="#">Join Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="pricingTable pink">
+                            <div class="pricingTable-header">
+                                <div class="price-value">
+                                    <span class="currency">Rs</span>
+                                    <span class="amount">120</span>
+                                    <span class="amount-sm">.99</span>
+                                </div>
+                                <h3 class="title">Student</h3>
+                            </div>
+                            <ul class="pricing-content">
+                            
+                                <li>Get 1 month free </li>
+                                <li>Eligible students only. Annual verification required.</li>
+                               
+                            </ul>
+                            <div class="pricingTable-signup th">
+                                <a href="#">Join Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    </div></div>
